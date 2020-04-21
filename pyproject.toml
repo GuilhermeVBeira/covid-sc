@@ -9,6 +9,8 @@ license = "mit"
 python = "^3.8"
 django = "^3.0.5"
 psycopg2 = "^2.8.5"
+prettyconf = "^2.1.0"
+dj-database-url = "^0.5.0"
 
 [tool.poetry.dev-dependencies]
 
